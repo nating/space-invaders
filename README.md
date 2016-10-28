@@ -1,4 +1,4 @@
-# space-invaders
+# Space Invaders
 A one player Space Invaders game written in Processing.
 
 ## Instructions for running

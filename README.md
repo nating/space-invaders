@@ -25,6 +25,4 @@ Unfortunately, the biggest problem faced when developing the game was making it 
 This project has been shelved.  
   I was developing this game for several weeks. Towards the end of the space invaders part of the module, I was developing a 2-Player mode. However it was not finished before we moved on to another project, so that element was scratched. This 2-Player mode was to make the game a lot more fun.  
   I have begun working on different projects that I feel are more important, so the current state of the game is unlikely to be updated.
-   
-## Built With
-* Processing
+  

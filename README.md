@@ -5,8 +5,8 @@ A one player Space Invaders game written in Processing.
 
 ## Instructions for running
 To play this Space Invaders game, you must have processing version 2.2.1. This version of processing can be downloaded at https://processing.org/download/.  
-Once you have this version of processing, download the _"SpaceInvaders"_ folder.  
-After downloading the folder, right click on the _"SpaceInvaders.pde"_ inside the folder and select _"open with > Processing"_.
+Once you have this version of processing, download the _"SpaceInvaders.zip"_ file.  
+After downloading & uncompressing the file, right click on the _"SpaceInvaders.pde"_ inside the _SpaceInvaders_ folder and select _"open with > Processing"_.
 This will open up a processing sketch, and if you hit the play symbol/triangle on the top of the sketch, the game will open up for you to begin playing.
 
 ## Description

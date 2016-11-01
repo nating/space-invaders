@@ -1,9 +1,7 @@
 # Space Invaders
 A one player Space Invaders game written in Processing.
 
-</div align="middle">![space-invaders-demo](Screenshots/space-invaders-demo.gif)</div>
-
-</img src="Screenshots/space-invaders-demo.gif" align="middle">
+![space-invaders-demo](Screenshots/space-invaders-demo.gif)
 
 ## Instructions for running
 To play this Space Invaders game, you must have processing version 2.2.1. This version of processing can be downloaded at https://processing.org/download/.  
